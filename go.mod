@@ -1,3 +1,3 @@
-module github.com/AleksandrKravets/protos.git
+module github.com/kravetsssss/protos
 
 go 1.21
